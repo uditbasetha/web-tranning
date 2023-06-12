@@ -1,0 +1,70 @@
+body{
+    background-color: hsl(150, 100%, 50%);
+}
+.heading{
+    background-color: #00ffbf;
+}
+#para{
+    background-color: rgb(98, 0, 255);
+    width: 50%;
+    /*margin-left: 34%;
+    margin-right: 4%;*/
+}
+/*dimensions*/
+.box
+{
+    background-color: aqua;
+    width: 45px;
+    height: 47px;
+    font-size: 2.5rem; 
+
+}
+.heading{
+
+    width: 40%;
+    height: 25px;
+    margin: 100px 300px 30px 50px;
+   margin: 30px 20px;
+   margin: 30px;
+   margin: 50px;
+  
+}
+/* display and position*/
+img{
+    width: 70px;
+    height: 30px;
+    border: 10px solid red;
+    border-radius: 150%;
+}
+h3{
+    display: inline;
+}
+div{
+    display: inline-block;
+}
+.box{
+    border-radius: 50px;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+}
+*{
+ margin: 0px;   
+}
+.bbox1{
+    background-color: aqua;
+    
+}
+.bbox2{
+    background-color: blue;
+    margin-block-end: 50px;
+}
+.bbox3{
+    background-color: blueviolet;
+    position: relative;
+    bottom: -30px;
+    left: 50px;
+    margin-block-start: 50px;
+}
