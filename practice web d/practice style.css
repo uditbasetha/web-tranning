@@ -4,7 +4,17 @@
     box-sizing: border-box;
  }
  .container{
-    background-color: aqua;
+    background-color: rgb(229, 238, 238);
     min-height: 100vh;
     border: 10px solid #1d1e4c;
 }
+.content{
+   max-width: 900px;
+   margin-left: 50%;
+   margin-right: 50%;
+}
+
+
+
+
+
