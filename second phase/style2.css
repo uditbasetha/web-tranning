@@ -1,0 +1,19 @@
+.image{
+    height: 500px;
+    width: 500px;
+     
+    position: relative;
+      
+    
+}
+.udit{
+    position: absolute;
+  bottom: 40px;
+  right: 20px;
+  background-color: none;
+  color: aliceblue;
+  padding-left: 50px;
+  padding-right: 20px;
+    
+ 
+}

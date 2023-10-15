@@ -1,0 +1,51 @@
+ li{
+    background-color: rgb(240, 236, 244);
+    list-style: none;
+    float: left;
+    margin-left: 100px;
+    
+
+ }
+ div{
+    height: 100px;
+    width: 150px;
+    border: 1px solid rgb(42, 7, 130);
+ }
+ .a{
+    position: relative;
+    left: 600px;
+    top: -100px;
+
+ }
+ .c{
+    position: relative;
+    left: 600px;
+    top: -100px;
+ }
+ .d{
+    position: fixed;
+    left: 300px;
+    top: 170px;
+ }
+
+ /* div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(169, 56, 56);
+ }
+ .b{
+    position: ;
+ } */
+ /* div{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    position: fixed;
+    left: 50px;
+    top: 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+    
+ } */
+
+ 
