@@ -8,23 +8,41 @@
 </head>
 
 <body>
+    click for second table
+    <button type="submit">submit</button>
     <script>
-        let a = prompt("enter your first number:");
-        let b = prompt("enter your second number:");
-        let c = prompt("your choice:")
+        function ab() {
+            let a = 2;
+            while (a < 21) {
+                document.write(a + "<br/>");
+                a = a + 2;
+            }
 
-        let add = a + b;
-        let sub = a - b;
-        let mul = a * b;
-        if (c == add) {
-            document.write("addition:" + add);
         }
-        else if (c == sub) {
-            document.write("subtraction:" + sub);
-        }
-        else {
-            document.write("multile:" + mul);
-        }
+
+        // let a = 2;
+        // while (a < 21) {
+        //     document.write(a + "<br/>");
+        //     a = a + 2;
+        // }
+        // let a = prompt("enter your first number:");
+        // let b = prompt("enter your second number:");
+        // let c = prompt("enter your choice")
+        // let choice = (addition, subtraction);
+
+        // let addition = a + b;
+        // let subtraction = a - b;
+        // let multiplication = a * b;
+
+        // if (choice == addition) {
+        //     document.write("addition:" + a + b);
+        // }
+        // else if (choice == subtraction) {
+        //     document.write("subtraction:" + a - b);
+        // }
+        // else {
+        //     document.write("multile:" + multiplication);
+        // }
 
 
         // let age = prompt("enter your age:");
